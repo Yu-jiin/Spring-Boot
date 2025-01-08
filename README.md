@@ -1,4 +1,4 @@
-# Spring-Boot 네이티브
+# Spring-Boot 네이티브앱
 - 지ㄴ짜 ㅈ댐
 # VScode 설치
 > 1. Java Extension Pack 설치
